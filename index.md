@@ -97,3 +97,4 @@ decentralize
 Revisable
 ctene
 nontenant
+onychomancy
