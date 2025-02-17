@@ -189,3 +189,4 @@ macan
 horizontality
 vomerine
 lackeydom
+thanatopsis
