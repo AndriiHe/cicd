@@ -53,3 +53,4 @@ decolorizer
 abdat
 dumontite
 quadratically
+tribrach
