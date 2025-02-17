@@ -143,3 +143,4 @@ pycnosis
 Purkinje
 tinstuff
 trypanosomatosis
+vernacularness
