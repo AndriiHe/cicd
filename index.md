@@ -154,3 +154,4 @@ frontlessly
 tarragon
 willet
 Monarda
+exceptionless
