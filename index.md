@@ -169,3 +169,4 @@ infraterritorial
 nonrepeater
 Anasa
 jayhawk
+peneseismic
