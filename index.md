@@ -236,3 +236,4 @@ hippopotamus
 relimitation
 premonitive
 angiostrophy
+coterminous
