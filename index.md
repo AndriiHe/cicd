@@ -73,3 +73,4 @@ misascribe
 lobscourse
 lochopyra
 dextrously
+Gujarati
