@@ -49,3 +49,4 @@ uncondescension
 Tungan
 hyperconservatism
 Phryganea
+decolorizer
