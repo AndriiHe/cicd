@@ -87,3 +87,4 @@ Algol
 soulful
 tetanolysin
 hyperhedonia
+stigmarioid
