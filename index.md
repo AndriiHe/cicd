@@ -171,3 +171,4 @@ Anasa
 jayhawk
 peneseismic
 Japonize
+afoot
