@@ -36,3 +36,4 @@ interventive
 putrescency
 nonoriginal
 noumenalize
+collocationable
