@@ -170,3 +170,4 @@ nonrepeater
 Anasa
 jayhawk
 peneseismic
+Japonize
