@@ -199,3 +199,4 @@ sag
 octosepalous
 headquarter
 dicyanide
+ameliorable
