@@ -22,6 +22,6 @@ jobs:
           mountPath: '/cicd'
           files: 'index.md run.sh'
           domain: 'https://app.lab3.blueharvest.cloud'
-          maxExecutionTime: 30
+          maxExecutionTime: 10
         env:
           REDOCLY_AUTHORIZATION: ${{ secrets.REDOCLY_AUTHORIZATION }}
