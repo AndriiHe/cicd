@@ -86,3 +86,4 @@ contrail
 Algol
 soulful
 tetanolysin
+hyperhedonia
