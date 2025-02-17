@@ -100,3 +100,4 @@ nontenant
 onychomancy
 threaded
 drift
+disenthrone
