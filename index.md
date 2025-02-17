@@ -145,3 +145,4 @@ tinstuff
 trypanosomatosis
 vernacularness
 unbiting
+hypopselaphesia
