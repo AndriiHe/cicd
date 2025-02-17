@@ -172,3 +172,4 @@ jayhawk
 peneseismic
 Japonize
 afoot
+teruncius
