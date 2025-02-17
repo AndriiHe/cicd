@@ -94,3 +94,4 @@ Troglodytinae
 cajolery
 recodify
 decentralize
+Revisable
