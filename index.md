@@ -173,3 +173,4 @@ peneseismic
 Japonize
 afoot
 teruncius
+gnathalgia
