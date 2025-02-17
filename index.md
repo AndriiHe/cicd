@@ -26,3 +26,4 @@ nephroid
 hemostatic
 stummer
 minding
+prisable
