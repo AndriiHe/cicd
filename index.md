@@ -190,3 +190,4 @@ horizontality
 vomerine
 lackeydom
 thanatopsis
+dolorifuge
