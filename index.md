@@ -114,3 +114,4 @@ lemonade
 syntactic
 thoraciform
 homestead
+oppugn
