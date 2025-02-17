@@ -200,3 +200,4 @@ octosepalous
 headquarter
 dicyanide
 ameliorable
+holmic
