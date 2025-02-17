@@ -115,3 +115,4 @@ syntactic
 thoraciform
 homestead
 oppugn
+paneulogism
