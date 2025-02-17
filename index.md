@@ -56,3 +56,4 @@ quadratically
 tribrach
 unadulterated
 ungeometricalness
+coronership
