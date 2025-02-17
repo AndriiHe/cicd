@@ -83,3 +83,4 @@ mistruster
 Callicebus
 thatcher
 contrail
+Algol
