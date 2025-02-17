@@ -118,3 +118,4 @@ oppugn
 paneulogism
 griffonage
 gunpower
+besnare
