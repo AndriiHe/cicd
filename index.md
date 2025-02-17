@@ -72,3 +72,4 @@ apocentric
 misascribe
 lobscourse
 lochopyra
+dextrously
