@@ -175,3 +175,4 @@ afoot
 teruncius
 gnathalgia
 soapsud
+dioptra
