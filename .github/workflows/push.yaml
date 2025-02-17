@@ -20,7 +20,8 @@ jobs:
           organization: 'surviving-monkey'
           project: 'mad-mango'
           mountPath: '/cicd'
-          files: '/'
+          files: 'index.md run.sh'
           domain: 'https://app.lab3.blueharvest.cloud'
+          maxExecutionTime: 30
         env:
           REDOCLY_AUTHORIZATION: ${{ secrets.REDOCLY_AUTHORIZATION }}
