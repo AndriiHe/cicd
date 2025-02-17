@@ -77,3 +77,4 @@ Gujarati
 superstandard
 fairyship
 whittener
+Hispanist
