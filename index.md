@@ -30,3 +30,4 @@ prisable
 boleite
 headcap
 poetomachia
+peripneustic
