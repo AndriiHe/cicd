@@ -192,3 +192,4 @@ lackeydom
 thanatopsis
 dolorifuge
 halfness
+zimbabwe
