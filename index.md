@@ -93,3 +93,4 @@ unerected
 Troglodytinae
 cajolery
 recodify
+decentralize
