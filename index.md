@@ -52,3 +52,4 @@ Phryganea
 decolorizer
 abdat
 dumontite
+quadratically
