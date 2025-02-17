@@ -40,3 +40,4 @@ collocationable
 unsizableness
 piarhemia
 Leptostraca
+Psychean
