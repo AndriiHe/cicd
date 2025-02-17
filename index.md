@@ -142,3 +142,4 @@ Juang
 pycnosis
 Purkinje
 tinstuff
+trypanosomatosis
